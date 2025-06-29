@@ -161,13 +161,6 @@ sudo /opt/arkime/bin/Configure
 
 ---
 
-## 📥 Contribution
-
-Want to contribute? Fork this repo, add playbooks, detection rules, dashboards, or red-team scripts!
-
-```bash
-git clone https://github.com/<yourname>/soc-lab-home.git
-```
 
 ---
 
